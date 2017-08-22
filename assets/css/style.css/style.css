@@ -1,0 +1,146 @@
+
+
+
+#header{
+    background: #ffffff;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 95px;
+    margin-bottom: 30px;
+    
+    
+    
+
+    
+ }
+
+h1{
+    font-family: "Georgia", 'Times New Roman', Times, serif;
+    background: #4aaaa5;
+    color: white;
+    width: 300px;
+    height: 70px;
+    position: fixed;
+    left: 100px;
+    text-align: center;
+    padding-top: 25px;
+    margin-top: 0;
+    font-size: 28px;
+    
+
+
+  }
+
+nav{
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    color: #777777;
+    position: fixed;
+    right: 360px;
+    top: 40px;
+
+}
+
+#About{
+    float: left;
+    position: absolute;
+    right: 200px;
+
+}
+
+#Portfolio{
+    float: left;
+    position: absolute;
+    right: 100px;
+    
+
+}
+#Contact{
+    float: left;
+    position: absolute;
+    right: 0px;
+}
+
+
+body{
+    background: #efefef;
+
+ }
+
+#main{
+    width: 650px;
+    height: 478px;
+    background: white;
+    margin-top: 30px;
+    left: 90px;
+    position: relative;
+    top: 100px;
+    overflow: auto;
+
+}
+
+h2{
+    font-family: "Georgia", 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    font-size: 30px;
+    padding: 5px 20px 5px 20px
+
+}
+
+#me{
+    padding: 35px 35px 35px 35px;
+}
+
+
+#github{
+     width: 10px;
+     height: 100px;
+     clear: both;
+     float: left;
+     position: absolute;
+     left: 0px;
+
+ }
+
+ #linkedin{
+     width: 100px;
+     height: 100px;
+     float: left;
+     position: absolute;
+     left: 100px;
+
+ }
+
+ #stackoverflow{
+     width: 100px;
+     height: 100px;
+     float: left;
+     position: absolute;
+     left: 200px;
+     bottom: 1px;
+ }
+
+ #pic{
+    clear: both;
+    float: left;
+ }
+
+p{
+    text-align: left;
+    
+    
+}
+
+#connect{
+    width: 295px;
+    height: 200px;
+    background: white;
+    position: absolute;
+    top: 143px;
+    right: 330px;
+}
+
+#links{
+    font-size: 25px;
+}
