@@ -1,7 +1,7 @@
 #header{
     background: #ffffff;
     width: 100%;
-    position: relative;
+    position: fixed;
     top: 0px;
     left: 0px;
     height: 95px;
@@ -69,7 +69,7 @@ body{
     width: 650px;
     height: 478px;
     background: white;
-    margin-top: 15px;
+    margin-top: 30px;
     left: 90px;
     position: relative;
     top: 100px;
@@ -122,13 +122,13 @@ h2{
     clear: both;
     float: left;
  }
-/*
+
 p{
     text-align: left;
     
     
 }
-*/
+
 #connect{
     width: 295px;
     height: 200px;
