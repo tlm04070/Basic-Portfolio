@@ -76,7 +76,7 @@ body{
     left: 90px;
     position: relative;
     top: 100px;
-    overflow: 
+    
 
 }
 
@@ -173,7 +173,7 @@ p{
     padding: 5px 15px 5px 15px;
     margin-left: 35px;
     position: absolute;
-    bottom: 7px;
+    bottom: 15px;
     
 
 
@@ -203,7 +203,7 @@ footer{
     background: #666666;
     color: #efefef;
     text-align: center;
-    height: 75px;
+    height: 65px;
     left: 0px;
     border-top-style: solid;
     border-color: #4aaaa5;
@@ -218,5 +218,5 @@ footer{
     font-size: 12px;
     margin-top: 15px;
     position: relative;
-    top: 6px;
+    top: 8px;
 }

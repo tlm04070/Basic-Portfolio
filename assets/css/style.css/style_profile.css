@@ -93,6 +93,7 @@ h2{
     height: 205px;
     width: 275px;
     float: left;
+    
 
 }
 
@@ -100,10 +101,13 @@ h2{
 #hangman{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     width: 275px;
-    height: 60px;
+    height: 30px;
     background: #4aaaa5;
     position: absolute;
-    top: 250px;
+    top: 220px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 15px;
 
     
 
@@ -115,6 +119,7 @@ h2{
     height: 205px;
     width: 275px;
     float: left;
+    
 
 
 }
@@ -143,8 +148,13 @@ h2{
 #trivia{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     width: 275px;
-    height: 60px;
+    height: 30px;
     background: #4aaaa5;
+    position: absolute;
+    top: 470px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 15px;
 
 
 
