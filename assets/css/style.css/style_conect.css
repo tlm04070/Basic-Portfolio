@@ -9,6 +9,8 @@
     left: 0px;
     height: 95px;
     margin-bottom: 30px;
+    border-bottom: 2px solid #cccccc;
+    
     
     
     
@@ -42,10 +44,19 @@ nav{
 
 }
 
+hr{
+    margin: 0px 35px 0px 35px;
+    color: #cccccc;
+}
+
+a{
+    text-decoration: none;
+}
 #About{
     float: left;
     position: absolute;
     right: 200px;
+    color: #4aaaa5;
 
 }
 
@@ -53,6 +64,7 @@ nav{
     float: left;
     position: absolute;
     right: 100px;
+    color: #4aaaa5;
     
 
 }
@@ -60,6 +72,7 @@ nav{
     float: left;
     position: absolute;
     right: 0px;
+    color: #4aaaa5;
 }
 
 
@@ -118,7 +131,7 @@ h2{
      float: left;
      position: absolute;
      left: 200px;
-     bottom: 1px;
+     bottom: 15px;
  }
  /*
  #pic{
@@ -194,6 +207,7 @@ p{
 textarea{
     width: 590px;
     height: 100px;
+    max-width: 590px;
 }
 
 footer{
