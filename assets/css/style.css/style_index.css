@@ -142,10 +142,12 @@ h2{
     float: left;
     margin-right: 15px;
     margin-bottom: 5px;
+    margin-left: 10px;
  }
 
 p{
     text-align: left;
+    font-size: 20px;
     
     
 }
